@@ -1,5 +1,5 @@
 # Natural Language to SQL
-### Just ask a question. Get the answer — no SQL needed.
+### Just ask a question. Get the answer, no SQL needed.
 
 ---
 
