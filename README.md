@@ -5,7 +5,7 @@
 
 ## What is this?
 
-**Natural Language to SQL** is a fully AI-powered backend service that lets anyone query a database using plain English — no SQL knowledge required.
+**Natural Language to SQL** is a fully AI-powered backend service that lets anyone query a database using plain English - no SQL knowledge required.
 
 The user simply types a question like:
 
